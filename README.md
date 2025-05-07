@@ -10,29 +10,27 @@
 </div>
 
 
-# 🤸🏻‍♂️ **About Me:** 
-- 🔭 I'm currently studying Software Engineering at FIAP  
-- 🌱 I'm learning **Kotlin**, **RobotFramework**, **Postman**, **Python**  
-- 💬 My strengths are **Python, HTML and RobotFramework**!! 
-- ⚡ Fun fact: I love the **Pokémon franchise** =)
-- ⏳ Recently: **I got a new job in Quality Assurance at C6 Bank here in Brazil!**  
-
-
-## 🏢 **Professional Experience**  
-- **🟨 C6 BANK | Intern - Quality Assurance**  
-  *🗓️ Jul 2024 – Present*  
-  - Working with automation tools developed using **RobotFramework**.
-  - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
+# 🧑🏻‍💻 **About Me:** 
+- 🎓 I'm currently studying **Data Analysis** at FIAP  
+- 📚 I'm learning **SQL**, **R**, and improving my **Python** skills  
+- 🧠 My strengths are **Python**, **SQL**, and **R** — essential tools for Data Science  
+- 🏐 Fun fact: I play **volleyball** in my free time
+ 
 
 ## 🎓 **Academic Experience**  
-- **🟥 FIAP | Software Engineering Student**  
-  *🗓️ Feb 2024 – Present*  
-  - Participating in software development projects and focusing on programming languages and systems analysis.  
+- **🟥FIAP – Data Science Course**  
+  *🗓️ Feb 2025 – Present*  
+  - Currently studying Data Science at FIAP, focusing on data analysis, statistics, machine learning, and analytical tools.  
 
-- **🟩 FECAP | Technical Informatics High School Course**  
-  *🗓️ Feb 2022 – Nov 2023*  
-  - Developed technical interdisciplinary projects, presented to technology professionals.  
-
+- **🟩 FECAP | AI Technical Course**  
+  *🗓️ Feb 2021 – Nov 2023*  
+  - Developed interdisciplinary projects applied to Artificial Intelligence, presented to panels of industry professionals.
+    
+- **🎖️IBM – Machine Learning with Python Course**
+  *🗓️ Sep 2022*
+  - Focused on regression, classification, unsupervised learning, and recommendation systems.
+  - Developed applied projects throughout the course.
+   
 ## 🌐 **I can speak**  
 - Advanced English by CELLEP  
 - Intermediate Spanish  
@@ -40,7 +38,7 @@
 
 ## 💻 **Languages & Tools:** 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,html,git,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,html,git,vscode,linux,r" />
  <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lzbovani&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="lzbovani" "/>
     <br>
