@@ -6,7 +6,7 @@
 
 
 <div align=center>
-    <img src="https://streak-stats.demolab.com?user=lzbovani&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=lzbovani&theme=nightowl" alt="GitHub Streak" />
 </div>
 
 
